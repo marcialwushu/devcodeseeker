@@ -2,6 +2,12 @@
 
 Custom Search Engine by Google 
 
+![](http://www.knowledgeidea.com/wp-content/uploads/2015/04/How-to-Create-Custom-Search-Engine-CSE-For-Your-Website.jpg)
+
+[Public Link CSE](https://cse.google.com/cse/publicurl?cx=017056065417995794621:tulebef5ofs)
+
+[Dev Code Seeker](https://marcialwushu.github.io/devcodeseeker/)
+
 ## How To Create A Custom Google Search Engine For Your Students
 
 While many teachers embrace the chaos of digital research, for others setting students loose on Google is a recipe for a research project chock-full of Wiki Answers and other less-than-ideal information sources.
